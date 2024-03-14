@@ -1,8 +1,5 @@
 ## The past, present and future of emissions.
 
-The project solution hosted on Github includes the problem statement, motivation, theoretical foundation,
-argumentation of choices, design, code, artefacts, outcomes, and implementation instructions, as appropriate.
-
 ## Problem formulation:
 Our project aims to analyze global emissions, using datasets which has several years of data to develop predictive models that forecast the potential increases/decreases in emissions in the future. This research is crucial as it addresses the direct impact of emissions on the future of humanity, highlighting the urgency for immediate change. The expected and hoped positive outcome from this project is a large awakening not only among individuals but more importantly among governments worldwide, motivating a hopeful change in how we live, so that the planet and future generations may live and ensure the survival of the human race.
 
@@ -16,7 +13,7 @@ The purpose of this project aims to analyze global emissions, using datasets tha
 -How have global emissions changed over the past 70 years? <br>
 -Which models can we use and fit the best for our datasets? 
 ### Hypothesis:
--Predictive models will indicate a continued global increase in emissions at varying rates by country, unless drastic policy measures are implemented to halt it.
+-Predictive models will indicate a continued global increase in emissions at varying rates by country, unless drastic policy measures are implemented to halt it. <br>
 -Some smaller countries in terms of population having equal emission as other countries with a higher population due to the overall wealth and/or living standards of the average person.
 ### Expected solution / positive impact / which category of users:
 -A basic analysis of emission trends over the past 70 years, showcasing the seriousness and increasing speed of our global emission, combined with predictive models forecasting our future potential emission trends based on our datasets.
