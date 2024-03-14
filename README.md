@@ -12,10 +12,8 @@ Global emissions have time and time again shown us that it is slowly killing the
 The purpose of this project aims to analyze global emissions, using datasets that have several years of data to develop predictive models that forecast the potential increases/decreases in emissions in the future. This research is crucial as it addresses the direct impact of emissions on the future of humanity, highlighting the urgency for immediate change.
 ### Research questions: 
 -Which countries are producing the most emission?  
--Which countries are producing most emission per capita?
-
--How have global emissions changed over the past 70 years?
-
+-Which countries are producing most emission per capita? <br>
+-How have global emissions changed over the past 70 years? <br>
 -Which models can we use and fit the best for our datasets? 
 ### Hypothesis:
 -Predictive models will indicate a continued global increase in emissions at varying rates by country, unless drastic policy measures are implemented to halt it.
